@@ -15,7 +15,7 @@
 
 ---
 
-<img align="left" alt="PsyQuake's Github status" src="https://github-readme-status.vercel.app/api?username=Vishesh-Sharma221&show_icons=true&hide_border=true" />
+[![Vishesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishesh-Sharma221)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://vishesh-dev.w3spaces.com
 [youtube]: https://www.youtube.com/channel/UCm2xnD-CM7htzWgOAgb0mQg

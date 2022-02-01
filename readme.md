@@ -13,10 +13,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
----
-
-[![Vishesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishesh-Sharma221)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://vishesh-dev.w3spaces.com
 [youtube]: https://www.youtube.com/channel/UCm2xnD-CM7htzWgOAgb0mQg
 [instagram]: https://www.instagram.com/psyquake_69/

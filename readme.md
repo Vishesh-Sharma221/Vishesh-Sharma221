@@ -2,9 +2,9 @@
 [![Website](https://img.shields.io/badge/-Portfolio%20%20%20%20%20%20%20%20%20%20%20-blue?label=vishesh-dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vishesh-dev.w3spaces.com)
 
 ## I'm a Student, Music Producer and Developer
-- 💻 Currently learning front end 
+- 💻 Currently mastering python
 - 👥 Looking forward to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and get a good hold a front end
 - ⚡ Fun fact: I love to beatbox! 
 ### Connect with me
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

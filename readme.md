@@ -1,5 +1,4 @@
 ### Hi there, I'm Vishesh - aka PsyQuake 👋 
-[![Website](https://img.shields.io/badge/-Portfolio%20%20%20%20%20%20%20%20%20%20%20-blue?label=vishesh-dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vishesh-dev.w3spaces.com)
 
 ## I'm a Student, Developer and a Music Producer
 - 💻 Currently mastering python

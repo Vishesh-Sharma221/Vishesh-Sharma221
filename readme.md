@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and a Music Producer
 - 💻 Currently mastering python
 - 👥 Looking forward to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and get a good hold at front end
+- 🥅 2023 Goals: Contribute more to Open Source projects and get a good hold at front end
 - ⚡ Fun fact: I love to beatbox! 
 ### Connect with me
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
